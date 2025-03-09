@@ -1,4 +1,4 @@
-# Best Artworks Classification
+# Artworks Classification
 
 This project focuses on classifying artworks by famous artists using deep learning. The dataset contains images of artworks from 51 renowned artists, and the goal is to build a model that can accurately classify these artworks based on the artist.
 
@@ -30,8 +30,8 @@ Two models were implemented:
 
 The best-performing model was the **ResNet50 with pre-trained weights**. Its performance on the dataset is as follows:
 
-- **Training Accuracy:** 96.08%  
-- **Validation Accuracy:** 94.47%  
+- **Training Accuracy:** 0.96  
+- **Validation Accuracy:** 0.94 
 
 Training and validation curves for **loss** and **accuracy** were plotted to monitor the model's performance.
 
