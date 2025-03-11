@@ -4,7 +4,7 @@ This project focuses on classifying artworks by famous artists using deep learni
 
 ## Dataset
 
-The dataset used is **Best Artworks of All Time** from Kaggle. It includes images of artworks by 51 famous artists, such as **Vincent van Gogh, Pablo Picasso, and Claude Monet**. The dataset is available under the **CC-BY-NC-SA 4.0** license.
+The dataset used is **Best Artworks of All Time** from Kaggle. It includes images of artworks by 51 famous artists, including **Vincent van Gogh, Pablo Picasso, and Claude Monet**. The images are labeled by artist names, making it suitable for supervised learning tasks. The dataset is available under the **CC-BY-NC-SA 4.0** license.
 
 - **Dataset Source:** [Best Artworks of All Time](https://www.kaggle.com/datasets/ikarus777/best-artworks-of-all-time)
 
