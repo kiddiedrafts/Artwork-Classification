@@ -10,7 +10,7 @@ The dataset used is **Best Artworks of All Time** from Kaggle. It includes image
 
 ## Data Preprocessing
 
-- **Image Preprocessing:** Images were resized to **224x224 pixels** and normalized using the **ResNet50 preprocessing function**.  
+- **Image Preprocessing:** Images were resized to **224x224 pixels** and normalized using the **ResNet50 built preprocessing function**, and converted into tensors suitable for deep learning models.  
 - **Label Encoding:** Artist names (categorical labels) were encoded into numeric values using `LabelEncoder`.  
 
 ## Model Architecture
