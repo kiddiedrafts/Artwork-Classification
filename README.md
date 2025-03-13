@@ -28,6 +28,7 @@ Two models were implemented:
 
 ## Model Performance
 In addition to achieving high accuracy, the model demonstrated the ability to distinguish different artistic styles, though it occasionally misclassified artworks from artists with similar styles.
+
 The best-performing model was the **ResNet50 with pre-trained weights**. Its performance on the dataset is as follows:
 
 - **Training Accuracy:** 0.96  
